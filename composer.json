@@ -1,4 +1,6 @@
 {
   "name": "wordpress-plugins-purchased/instagram-feed-pro",
-  "type": "wordpress-plugin"
+  "description": "Plugin for Instagram Feeds",
+  "type": "wordpress-plugin",
+  "require": {}
 }
